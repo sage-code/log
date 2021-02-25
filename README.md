@@ -8,7 +8,7 @@ Used to maintain this: [Home Page](https://sagecode.net)
 
 **how to contribute**
 
-Please report errors and suggest new contend by using the tracker for this project.
+Please report errors and suggest new contend by using the tracker.
 
 **contact**
 
